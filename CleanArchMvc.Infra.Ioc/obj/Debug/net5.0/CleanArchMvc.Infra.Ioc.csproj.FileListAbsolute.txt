@@ -1,0 +1,12 @@
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.deps.json
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.dll
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\ref\CleanArchMvc.Infra.Ioc.dll
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.pdb
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.csproj.AssemblyReference.cache
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.AssemblyInfoInputs.cache
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.AssemblyInfo.cs
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.dll
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Ioc.dll
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.pdb
