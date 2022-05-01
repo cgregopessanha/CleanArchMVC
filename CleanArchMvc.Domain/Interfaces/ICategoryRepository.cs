@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Domain.Interfaces
 {
-    //A implementação dessa interface será implementada na classe concreta na camada de Infra
+    //A implementação dessa interface será implementada na classe concreta na camada de Infra (CategoryRepository)
     //AS Operações serão Assíncronas usando o TASK;
     public interface ICategoryRepository
     {
