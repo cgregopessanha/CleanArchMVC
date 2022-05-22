@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Infra.Data.Repositories
 {
-    class ProductRepository : IProductRepository
+    public class ProductRepository : IProductRepository
     {
 
         ApplicationDbContext _productContext;
@@ -63,10 +63,10 @@ namespace CleanArchMvc.Infra.Data.Repositories
         {
             //Atualizo um produto do contexto;
             _productContext.Update(product);
-            
+
             //Persisto no banco;
             await _productContext.SaveChangesAsync();
-            
+
             //retorno do produto
             return product;
         }

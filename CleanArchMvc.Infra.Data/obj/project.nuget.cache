@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nWX312fZ92eKaFfNygdAljgxHAzDiPWs0+syb4L9NcuiZod6NbC852NZ+2X4s2kFHZmgW2lzUD/GPop/1uHc6Q==",
+  "dgSpecHash": "4/oPeEp/zOwKbz1zmtm88L5gZR/9Hn+dIsKElOfuf2VCCX2eJ6voGYCJqwgJeosF4R5PHDRBtA9TXBhiYRS2iA==",
   "success": true,
   "projectFilePath": "C:\\projetos\\VS2019\\Curso_CleanArchMvc\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [

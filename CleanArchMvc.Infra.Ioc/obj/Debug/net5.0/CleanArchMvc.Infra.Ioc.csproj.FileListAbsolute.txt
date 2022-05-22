@@ -10,3 +10,11 @@ C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\De
 C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.dll
 C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Ioc.dll
 C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.pdb
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.csproj.CopyComplete
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.runtimeconfig.json
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.runtimeconfig.dev.json
+C:\projetos\VS2019\Curso_CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.genruntimeconfig.cache
